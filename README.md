@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/pasqualegiorgio/frontend-mentor-article-preview-component)
+- [Live Site URL](https://pasqualegiorgio.github.io/frontend-mentor-article-preview-component/)
 
 ## My process
 
